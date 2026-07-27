@@ -1,41 +1,52 @@
 # Final-Module-2-Project
-#E-COMMERCE SALES ANALYSIS
+#MOBILE APP USAGE AND SCREEN TIME PATTERNS ANALYSIS
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-PROJECT DESCRIPTION
+OVERVIEW
 
 
-This project perfroms data analysis to help a Kenyan-based online retail company  to understand their sales and product performance to make data-driven decisions.
+The widespread adoption of smartphones and other digital devices has transformed how people carry out daily activities, e.g., working, learning, communication, entertainment, etc.
+However, increasing screen time and mobile app usage have raised concerns about user wellbeing and productivity. This project aims to analyze mobile app usage and screen time data collected across multiple countries to identify key trends and provide recommendations for improving user experience while promoting healthier digital habits 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+TARGET AUDIENCE
+
+App developers, technology companies, and researchers interested in understanding mobile usage behavior and enhancing user engagement
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+RESEARCH QUESTIONS
+
+
+•	How does average daily screen time vary across different age groups?
+
+•	Which mobile app categories receive the highest user engagement?
+
+•	Is there a relationship between device type (Android or IOS) and mobile app usage?
+
+•	How does mobile app usage differ across different countries?
+
+•	Which demographic factors are associated with higher screen time?
+
+•	What factors are the strongest predictors of user engagement?
+
+•	How does session duration vary across different app categories?
+
+•	What user groups are most likely to exceed daily screen time?
+
+•	What recommendations can be made to improve digital wellbeing based on user behavior?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-PROBLEM STATEMENT
+DATASET
+Kaggle – Mobile Phone Customer Churn Dataset
 
-Online retail companies often have a lot of data stored everyday which may not be analysed causing the compay to fail to notice key factors causing their business success or business failor.This project will help this company find it easy dealing( with their data without having to spend so much time analysing
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-OBJECTIVES
-
-*Analyze sales performance
-
-*Analyze products sales
-
-*Give reccommendations based on data analysis
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-PLANNED FEATURES
-
-*Analyze trends of the companies sales yearly using vizualizations
-
-*Interactivity of the dashboard to the user(using slicers and timers)
-
-*Viewing generated reports
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,25 +58,11 @@ CONCEPTS TO USE
 
 *Modelling/Building Visualizations-Tableau
 
-*Data Source-From Jumia
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-SUCCESS CRITERIA
 
-*Identify top 10 best-selling products
 
-*Understand yearly sales trends
-
-*Provide at least 3 actionable business recommendations
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-STRETCH GOALS
-
-*Analyzing the customer performance
-
-*Segment customers by purchasing behavior
 
 
 
